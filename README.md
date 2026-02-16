@@ -4,9 +4,6 @@
 The Personal Finance Dashboard is a comprehensive web application designed to help users manage and visualize their personal finances. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), this application offers a user-friendly interface to track income and expenses, analyze financial data, and gain insights into spending habits.
 ## Video Reference
 
-You can find a comprehensive project overview in the reference video provided.
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eHOiAdsIsz4/0.jpg)](https://www.youtube.com/watch?v=eHOiAdsIsz4)
 ## Installation
 
 1. **Download the Repository**
@@ -78,5 +75,4 @@ By following these steps, you will successfully integrate the mail service into 
  - Tailwind CSS
 ## 🚀 Contributors
 
-- Deepak Bhatter [@DeepakBhatter](https://www.linkedin.com/in/deepak-bhatter5512?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoCYT3PQmTJKYeWeOME6%2BdA%3D%3D)
-- Tushar Bhatt [@TusharBhatt](https://www.linkedin.com/in/tushar-bhatt-6031a5253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzitutbMqTRShyjk8F6UWAA%3D%3D)
+- Pronab Mondal
